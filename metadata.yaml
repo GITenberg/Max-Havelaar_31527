@@ -1,0 +1,43 @@
+_repo: Max-Havelaar_31527
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Spohr, Wilhelm
+    alias: Spohr, W. (Wilhelm)
+    birthdate: 1868
+    deathdate: 1959
+    gutenberg_agent_id: '35298'
+    url: http://www.gutenberg.org/2009/agents/35298
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Multatuli
+    alias: Dekker, Eduard Douwes
+    birthdate: 1820
+    deathdate: 1887
+    gutenberg_agent_id: '3624'
+    url: http://www.gutenberg.org/2009/agents/3624
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Multatuli
+    - http://www.iisg.nl/bwsa/bios/douwes-dekker.html
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31527'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch -- Indonesia -- Fiction'
+- !lcsh 'Java (Indonesia) -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Culture conflict -- Fiction'
+- !lcsh 'Persona (Literature)'
+- !lcsh 'Colonies -- Oceania -- Fiction'
+title: Max Havelaar
+url: http://www.gutenberg.org/ebooks/31527
