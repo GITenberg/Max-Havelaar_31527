@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Multatuli
     - http://www.iisg.nl/bwsa/bios/douwes-dekker.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31527#Max-Havelaar
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-03-06'
 gutenberg_type: Text
